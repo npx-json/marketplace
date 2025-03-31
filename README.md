@@ -1,4 +1,4 @@
-Real Estate Marketplace
+marketplace
 
 🏡 Real Estate Marketplace is a modern web application for browsing and listing properties such as apartments, houses, and lands.
 It provides an intuitive interface with smooth animations, interactive sliders, and responsive design.
